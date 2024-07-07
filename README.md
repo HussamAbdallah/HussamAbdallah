@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hussam Abdallah</h1>
-<h3 align="center">Embedded Software Engineer</h3>
+<h3 align="center"></h3>
 
 - 🔭 I have worked on [Persistence of Vision Display](https://github.com/HussamAbdallah/POV-Display.git)
 
