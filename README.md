@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Hussam Abdallah</h1>
 <h3 align="center"></h3>
 
-- 🔭 I have worked on [Persistence of Vision Display](https://github.com/HussamAbdallah/POV-Display.git)
-
-- 🌱 I’m currently studying in detail: **C language, (AVR,PIC18,ARM) programming as well as communication protocols.**
+- 🔭 I have worked on [MOS in a NutShell](https://github.com/HussamAbdallah/MOS-in-a-Nutshell)
   
-- 🌱 experience with both hardware and software.**
+- 🌱 Familiar with **Circuit Simulation, Analysis and Modeling.**
 
-- 💬 Ask me about **C / Embedded Systems concepts**
+- 🌱 Familiar with **Programming with C - C++**
+
+- 💬 Ask me about **Analog Concepts**
 
 - 📫 How to reach me **hosamabdallah00@gmail.com**
 
