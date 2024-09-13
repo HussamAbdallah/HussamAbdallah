@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hussam Abdallah</h1>
 <h3 align="center"></h3>
 
+- 🔭 I have worked on [SPICE v1.0](https://github.com/HussamAbdallah/SPICE-v1.0)
+
 - 🔭 I have worked on [MOS in a NutShell](https://github.com/HussamAbdallah/MOS-in-a-Nutshell)
   
 - 🌱 Familiar with **Circuit Simulation, Analysis and Modeling.**
